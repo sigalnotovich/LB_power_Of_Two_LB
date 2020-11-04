@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#sudo python exampleLB.pyc
+sudo python final_script_to_submit.py
